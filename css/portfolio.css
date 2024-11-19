@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+main img {
+    width: 1920px;
+    height: 1080px;
+}
+
+video {
+    width: 1920px;
+    height: 1080px;
+}
